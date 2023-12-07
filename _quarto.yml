@@ -8,6 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
+    right:
+      - icon: github
+        href: https://github.com/kmmsks/tkk
+        aria-label: GitHub
       
 format:
   html:
