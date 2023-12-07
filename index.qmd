@@ -4,7 +4,7 @@ title: "Tutkijan kevätkoulu 2024"
 
 ## Tervetuloa
 
-Tervetuloa [Psykiatripäivillä](https://www.psy.fi) toista kertaa järjestettävään Tutkijan kevätkouluun
+Tervetuloa [Psykiatripäivillä](https://www.psy.fi){target="_blank"} toista kertaa järjestettävään Tutkijan kevätkouluun
 
 **Aika:** Psykiatripäivien yhteydessä keskiviikkona 13.3.2024 klo 10.00-18.00, iltatilaisuus klo 19
 
@@ -33,3 +33,53 @@ Ilmoittautuminen kevään Psykiatripäivien ilmoittautumisen yhteydessä. Suulli
 ## Ohjelma
 
 Julkaistaan pian.
+
+## Alustava ohjelma
+
++-------------+---------------------------------------------------------------------------------+
+| Aika        | Ohjelma                                                                         |
++=============+=================================================================================+
+| 10.00-12.30 | Posterit ja suulliset esitykset. Kahvi klo 11.                                  |
++-------------+---------------------------------------------------------------------------------+
+| 12.30-13.30 | Lounas                                                                          |
++-------------+---------------------------------------------------------------------------------+
+| 13.30-14.45 | Kuinka ottaa tilastotiede hallintaan?                                           |
+|             |                                                                                 |
+|             | Professori Jouko Miettunen, Väestöterveyden tutkimusyksikkö, Oulun yliopisto    |
++-------------+---------------------------------------------------------------------------------+
+| 14.45-15.00 | Hengähdystauko                                                                  |
++-------------+---------------------------------------------------------------------------------+
+| 15.00-16.15 | Kuinka kirjoitetaan hyvä johdanto ja diskussio?                                 |
+|             |                                                                                 |
+|             | Ph.D. Carolyn Brimley Norris, Language Services, University of Helsinki         |
++-------------+---------------------------------------------------------------------------------+
+| 16.15-16.45 | Kahvi                                                                           |
++-------------+---------------------------------------------------------------------------------+
+| 16.45-18.00 | Projektin, tiedostojen, koodin ja tekstin hallinta. Puhuja ei vielä vahvistettu |
++-------------+---------------------------------------------------------------------------------+
+| 19.00       | Iltatilaisuus                                                                   |
++-------------+---------------------------------------------------------------------------------+
+
+## Järjestelytoimikunta
+
+PJ:t Kimmo Suokas ja Toni Ali-Sisto
+
+Heikki Laurikainen
+
+Kaisa Luoto
+
+Noora Scheinin
+
+Kaija Järventausta
+
+Helena Leppänen
+
+Saana Karttunen
+
+Virve Kekkonen
+
+Erfan Jahangiri
+
+## Edelliset tapahtuamt
+
+[Tutkijan kevätkoulu 2023](https://github.com/kmmsks/tkk23)
